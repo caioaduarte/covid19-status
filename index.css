@@ -1,0 +1,9 @@
+body {
+  background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+}
+
+h1 {
+  margin-top: 50px !important;
+  margin-bottom: 25px !important;
+  background-color: lightblue;
+}
